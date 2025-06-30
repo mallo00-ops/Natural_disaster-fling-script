@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mallo00-ops/Natural_disaster-fling-script/refs/heads/main/Mika_hub.lua"))();
